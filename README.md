@@ -20,7 +20,7 @@ Strategic-segment clients contribute the highest revenue share (877M), ahead of 
 
 Screenshots:
 
-<!-- Add your screenshots here after uploading, e.g.: --> <!-- ![Opportunity Overview](opportunity-overview.png) --> <!-- ![Opportunity Drill-through](opportunity-table.png) -->
+![Opportunity Overview](opportunity-overview.png) ![Opportunity Drill-through](opportunity-table.png)
 
 📄 Full Report (PDF) | 📊 Power BI File
 
@@ -40,7 +40,7 @@ Includes an interactive "Ask a Question" Q&A feature for natural-language queryi
 
 Screenshots:
 
-<!-- Add your screenshots here after uploading, e.g.: --> <!-- ![Client Profile](client-profile.png) --> <!-- ![Churner Profile](churner-profile.png) -->
+![Client Profile](client-profile.png)  ![Churner Profile](churner-profile.png)
 
 📄 Full Report (PDF) | 📊 Power BI File
 
